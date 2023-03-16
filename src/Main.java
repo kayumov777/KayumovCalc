@@ -53,7 +53,6 @@ public class Main {
                         System.out.println(roman[i]);
                     }
                 }
-
             } else {
                 String[] arabian = {"-", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"};
 
